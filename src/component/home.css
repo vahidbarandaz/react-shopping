@@ -1,0 +1,66 @@
+h2.carouh2 {
+    transform: translateY(-10.5em);
+    color: #f33f3f;
+    /* padding: 1em; */
+}
+h3.caruh3 {
+    transform: translateY(-7.2em);
+    color:aliceblue;
+    font-size: 2.7em;
+}
+.image-wrapper {
+    margin: -7em 0em;
+}
+.carousel .slide img {
+    padding-top: 11em;
+}
+.redlink{
+    color: #f33f3f;
+    text-decoration: none;
+    padding: 1em;
+}
+img.cardimagg {
+    height: 21em;
+    padding: 0.8em;
+}
+.card.cardwidth {
+    width: 20em;
+    margin-top: 3em;
+}
+.widdd {
+    width: 40em;
+}
+h4.colerbluuu {
+    color: #1a6692;
+}
+p.paragraaaa.mb-4 {
+    font-size: 0.9em;
+}
+ol, ul {
+    padding-left: 1rem;
+    list-style-type: square;
+    font-size: 0.9em;
+}
+.btncolor{
+    color: #f33f3f;
+}
+.backkkk{
+    background-color: #f7f7f7;
+    border-radius: 1em;
+}
+.clorrrrr{
+    margin-top: 1em;
+}
+.col-4.text-center.zindex.p-5 {
+    z-index: 0;
+    margin-top: 5em;
+}
+img.imagesharvor {
+    width: 35em;
+}
+
+@media only screen and (max-width:680px){
+    img.imagesharvor {
+        width: 28em;
+    } 
+}

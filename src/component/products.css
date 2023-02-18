@@ -1,0 +1,27 @@
+.card-body {
+    height: 32em;
+    
+}
+.row.mt-3 {
+    margin-left: 5em;
+}
+.floatR {
+    margin-left: 45em;
+}
+
+.img-height {
+    height: 17em;
+}
+.row.container {
+    margin-left: 5em;
+   
+}
+.cartP {
+    margin-top: 15em;
+}
+.col-3.cartP {
+    margin-top: 5em;
+}
+.card.ml-2.mr-2 {
+    margin-top: 6em;
+}

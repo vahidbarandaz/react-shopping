@@ -1,0 +1,106 @@
+.backGround{
+    background-image: url(./../images/about-heading.jpg);
+    background-size: cover;
+    padding: 9em 0em;
+    width: 100%;
+}
+h4.center {
+    text-align: center;
+    color: #f33f3f;
+}
+h1.center {
+    text-align: center;
+    color:aliceblue;
+    font-size: 4em;
+}
+.blue{
+     color: #1a6692;
+     font-size: 1.5em;
+    
+}
+.list{
+    width: 50px;
+    height: 50px;
+    display: inline-block;
+    line-height: 50px;
+    background-color: #eee;
+    color: #121212;
+    font-size: 18px;
+    text-align: center;
+    transition: all .3s;
+}
+.ml{
+    margin-left: 0.5em;
+}
+.list:hover{
+    background-color: #f33f3f;
+}
+ul.mtt-4 {
+    margin-left: -2em;
+    width: 18em;
+}
+/* .cart-center{
+    text-align: center;
+} */
+.par {
+    font-size: 0.9em;
+    width: 25em;
+ 
+}
+
+.red{
+    color: #f33f3f;
+    font-size: 1em;
+    text-align: center;
+ 
+}
+.services {
+    background-image: url(./../images/services-bg.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    padding: 100px 0px;
+}
+.service-item{
+    text-align: center;
+    background-color: aliceblue;
+}
+a.btn.redbut {
+    background-color: #f33f3f;
+    text-align: center !important;
+    color: white;
+    margin: 2em auto;
+    display: block;
+    width: 9em;
+}
+.cardtitle{
+    color: #1a6692;
+    text-align: center;
+}
+.cardparag{
+    text-align: center;
+}
+.icon {
+    background-color: #f7f7f7;
+    padding: 1em;
+}
+.gear {
+    display: inline-block;
+    text-align: center;
+    line-height: 100px;
+    background-color: #f33f3f;
+    color: #fff;
+ 
+}
+.card-body1 {
+    height: 15em;
+}
+.footer{
+    text-align: center;
+    font-size: 0.8;
+    font-weight: 200;
+}
+.pfont{
+    font-size: 1.1em;
+}

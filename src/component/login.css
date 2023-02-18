@@ -1,0 +1,32 @@
+.wavebg{
+    background-image: url(../images/Wave.svg);
+    background-position: center;
+    background-size: cover;
+    padding: 10.1em;
+}
+
+form.login.form {
+    width: 30em;
+    padding: 4em 2em;
+    background-color: #fffcfc;
+    border-radius: 1em;
+    margin: 0em auto;
+    text-align: center;
+}
+.btc{
+    width: 26em;
+}
+.colorerr{
+    color: red;
+}
+ul.errorList {
+    list-style-type: disc;
+    color: red;
+}
+@media only screen and(max-width:680px){
+    form.login.form {
+       
+        margin: 0em -5em;
+        
+    }
+}
